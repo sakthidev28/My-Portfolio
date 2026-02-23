@@ -8,7 +8,7 @@ Highly skilled and results-driven Software Engineer and Full Stack Developer wit
 
 ## ✨ Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakthidev28.github.io/sakthidev28/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakthidev28.github.io/My-Portfolio/)
 
 # 💻 Tech Stack:
 
